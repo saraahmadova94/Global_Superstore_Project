@@ -1,4 +1,4 @@
-# Global Superstore Analysis Project
+# POWER BI Global Superstore Analysis Project
 
 ## Project Overview
 This project provides an in-depth analysis of the Global Superstore dataset, exploring key insights into sales performance, customer demographics, product categories, and regional trends. Using Power BI and Excel, the analysis aims to help stakeholders make data-driven decisions to improve sales strategy and operational efficiency.
